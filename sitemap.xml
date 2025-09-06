@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://sweetheal.store/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- All Apps Listing -->
+  <url>
+    <loc>https://sweetheal.store/apps</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- App Pages -->
+  <url>
+    <loc>https://sweetheal.store/app/mech-arena-plus</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sweetheal.store/app/fc-mobile-24-premium</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sweetheal.store/app/forza-horizon-5-mobile</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sweetheal.store/app/gta-5-mobile-premium</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sweetheal.store/app/block-blast-premium</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sweetheal.store/app/ebfootball-2024</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sweetheal.store/app/beamng-drive-premium</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sweetheal.store/app/pubg-mobile-us-and-skins</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sweetheal.store/app/farm-manager-2025</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sweetheal.store/app/racing-legends-offline</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Search Page -->
+  <url>
+    <loc>https://sweetheal.store/search</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://sweetheal.store/terms-of-service</loc>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://sweetheal.store/privacy-policy</loc>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://sweetheal.store/about</loc>
+    <priority>0.4</priority>
+  </url>
+
+</urlset>
